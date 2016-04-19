@@ -1,3 +1,4 @@
 # leetcode
 
-This is a test !
+Just for leetcode OJ !
+
