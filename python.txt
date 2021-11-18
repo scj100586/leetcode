@@ -1,0 +1,31 @@
+https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version
+https://github.com/catalystfrank/Python4DataScience.CH
+https://github.com/injetlee/Python
+
+http://c.biancheng.net/c/pointer/
+
+https://github.com/lukaszbanasiak/yahoo-finance
+
+proxy agent
+
+How to use curl command with proxy username/password on ...
+
+
+https://www.twisted-meadows.com/shadowsocksx-ng/
+
+https://superuser.com/questions/384398/setting-proxy-via-http-proxy-on-mac
+
+curl and wget
+
+检查端口状态
+lsof -iTCP -sTCP:LISTEN -n -P
+export http_proxy=http://myproxy.myorg.com:8080/ 
+
+export http_proxy=http://127.0.0.1:1087/ 
+-----
+todo list(Nov):
+1. command proxy agent  (18.19)
+2. git command  (20.21)
+3. git version control (22,23,24)
+4. curl (25,26,27)
+5. wget (28,29,30)
